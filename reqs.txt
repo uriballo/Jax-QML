@@ -5,3 +5,6 @@ optax
 flax
 tqdm
 datasets
+tensorflow_datasets
+tensorflow
+matplotlib
