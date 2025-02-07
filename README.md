@@ -1,5 +1,5 @@
 # Jax-QML
  
-* `jit_and_vmap.ipynb`: simple examples of just-in-time compilation, automatic vectorization and a combination of both.
-* `flax_nnx`: simple hybrid neural network in Flax.
-* `vmap_axes`: example of to use `in_axes` and `out_axes` when using the `vmap` transform.
+This repo aims to introduce JAX to researchers and practitioners in Quantum Machine Learning (QML) who may not yet be familiar with it. We will cover the fundamentals of JAX and showcase why its particularly well suited for working with quantum circuits in the context of QML with PennyLane. However, this is not an in-depth technical deep dive. For a more comprehensive exploration, we recommend referring to the official [JAX](https://jax.readthedocs.io/en/latest/quickstart.html) and [PennyLane](https://docs.pennylane.ai/en/stable/index.html) docs, which provide excellent resources.
+
+> [Introductory Notebook](https://github.com/uriballo/Jax-QML/blob/main/JAX-QML-Intro.ipynb)
