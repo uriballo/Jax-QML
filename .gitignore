@@ -1,1 +1,4 @@
 .venv
+archive
+.ipynb_checkpoints
+.idea

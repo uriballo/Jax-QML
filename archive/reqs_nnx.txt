@@ -1,10 +1,9 @@
-numpy
 jax
 pennylane
+pennylane-catalyst
 optax
 flax
 tqdm
-datasets
 tensorflow_datasets
 tensorflow
 matplotlib
