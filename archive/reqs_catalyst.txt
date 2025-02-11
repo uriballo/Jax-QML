@@ -1,5 +1,0 @@
-pennylane-catalyst
-optax
-tensorflow_datasets
-tensorflow
-matplotlib

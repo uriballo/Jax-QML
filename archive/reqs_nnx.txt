@@ -1,9 +1,0 @@
-jax
-pennylane
-pennylane-catalyst
-optax
-flax
-tqdm
-tensorflow_datasets
-tensorflow
-matplotlib
