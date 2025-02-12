@@ -5,3 +5,8 @@ This repo aims to introduce JAX to researchers and practitioners in Quantum Mach
 > [Notebook version](https://github.com/uriballo/Jax-QML/blob/main/JAX-QML-Intro.ipynb)
 > 
 > [PDF version](https://github.com/uriballo/Jax-QML/blob/main/JAX-QML-Intro.pdf)
+
+TL;DR:
+![scaling](scaling.png)
+for,
+![circuit](circuit.png)
