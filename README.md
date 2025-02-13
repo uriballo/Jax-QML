@@ -7,8 +7,8 @@ This repo aims to introduce JAX to researchers and practitioners in Quantum Mach
 > [PDF version](https://github.com/uriballo/Jax-QML/blob/main/JAX-QML-Intro.pdf)
 
 TL;DR:
-![scaling](scaling.png)
+![scaling](assets/scaling.png)
 zooming at low batch sizes:
-![scaling-zoom](scaling-zoom.png)
+![scaling-zoom](assets/scaling-zoom.png)
 for this given quantum circuit:
-![circuit](circuit.png)
+![circuit](assets/circuit.png)
