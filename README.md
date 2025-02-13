@@ -8,5 +8,7 @@ This repo aims to introduce JAX to researchers and practitioners in Quantum Mach
 
 TL;DR:
 ![scaling](scaling.png)
-for,
+zooming at low batch sizes:
+![scaling-zoom](scaling-zoom.png)
+for this given quantum circuit:
 ![circuit](circuit.png)
